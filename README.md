@@ -1,5 +1,5 @@
 --- 
-# Inquilinos de la BATCUEVA: Emoji:bat:
+# Inquilinos de la BATCUEVA: Emoji :bat:
 
 ***
 |Nombre	Superheroe			|identidad secreta		|imagen|
